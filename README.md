@@ -2,6 +2,8 @@
 
 This project is a hands-on exploration of the "grokking" phenomenon in neural networks, using a simple algorithmic task: modular addition (e.g., predicting `(a + b) mod p`). The project trains a small neural network on this task, observes grokking (a sudden shift from memorization to generalization after prolonged training), and then applies mechanistic interpretability techniques to reverse-engineer the model's internal computations.
 
+Disclaimer: This was done with the help of AI tools 
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
